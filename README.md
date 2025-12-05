@@ -297,7 +297,7 @@ For support, email mrsubash1615@gmail.com or create an issue in the repository.
 
 ```bash
 # Clone and run in 3 commands
-git clone [[repo-url]](https://github.com/M-R-Subash/login-using-firebase.git)
+git clone https://github.com/M-R-Subash/login-using-firebase.git
 npm install
 npm start
 ```

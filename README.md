@@ -4,7 +4,7 @@
 A modern, responsive authentication system built with React and Firebase, featuring secure user registration, login, and dashboard functionality with beautiful UI/UX design.
 
 ## 🚀 Live Demo
-[Add your live demo link here]
+https://m-r-subash.github.io/login-using-firebase/
 
 ## ✨ Features
 

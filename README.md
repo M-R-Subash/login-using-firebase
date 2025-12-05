@@ -81,7 +81,7 @@ src/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone [your-repository-url]
+git clone https://github.com/M-R-Subash/login-using-firebase.git
 cd [project-name]
 ```
 
@@ -275,11 +275,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-For support, email [your-email] or create an issue in the repository.
+For support, email mrsubash1615@gmail.com or create an issue in the repository.
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Subash M R**
 
 ## 🏆 Key Features Showcase
 
@@ -297,7 +297,7 @@ For support, email [your-email] or create an issue in the repository.
 
 ```bash
 # Clone and run in 3 commands
-git clone [repo-url]
+git clone [[repo-url]](https://github.com/M-R-Subash/login-using-firebase.git)
 npm install
 npm start
 ```
